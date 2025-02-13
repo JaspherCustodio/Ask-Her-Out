@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #fce4ec;
+    background-color: #f7dfdf;
 }
 
 .container{
@@ -34,11 +34,11 @@ body{
 }
 
 h1{
-    color: #e91e63;
+    color: #ce2b30;
 }
 
 p {
-    color: #555;
+    color: black;
     font-size: 1.2rem;
 }
 
@@ -57,12 +57,12 @@ p {
 }
 
 .button a:first-child {
-    background-color: #4CAF50;
+    background-color: #42a646;
     color: white;
 }
 
 .button a:last-child {
-    background-color: #f44336;
+    background-color: #eb392f;
     color: white;
 }
 
